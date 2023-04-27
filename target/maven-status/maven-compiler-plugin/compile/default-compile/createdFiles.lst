@@ -1,3 +1,4 @@
 com/wordcounttopology/WordCountBolt.class
-com/wordcounttopology/WordCountSpout.class
+com/wordcounttopology/SplitSentenceBolt.class
 com/wordcounttopology/WordCountTopology.class
+com/wordcounttopology/RandomSentenceSpout.class
